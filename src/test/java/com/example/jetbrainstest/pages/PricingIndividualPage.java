@@ -40,7 +40,6 @@ public class PricingIndividualPage {
 
     public void clickSwitchMonthly() {
         switchMonthly.click();
-        System.out.println("");
         log.info("Произошёл клик на страницу месячных подписок");
     }
 
